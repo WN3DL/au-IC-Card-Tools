@@ -1,0 +1,32 @@
+Decryption Key (HEX): 03 00 C2 84 40 A6 C0 0F 98 18
+0x0000: 0x01
+
+EZAppli
+0x0100 ADS, User-ID: 440711234567890@vdl03.brew.ne.jp
+0x0140 ADS, User-Password: MK29tieN
+0x0160 ADS, General IP Address: 219.108.158.199
+0x0164 ADS, Enterprise IP Address: 219.108.158.200
+0x0168 Validation Server, IP Address: 219.108.158.215
+0x0170 ID, SubscriberID: 07012345678901_ab.ezweb.ne.jp
+0x0200 BREW.net, User-ID: 440711234567890@vne03.brew.ne.jp
+0x0240 BREW.net, User-Password: MK29tieN
+0x0260 Location Server, IP Address: 219.108.156.116
+
+EZWeb
+0x0300 E-Mail, Network Login ID: 440711234567890@ev03.ezweb.ne.jp
+0x0340 E-Mail, Network Password: EZweb0ML
+0x0360 Unknown IP Address: 59.135.38.90
+0x0364 Unknown IP Address: 219.125.147.211
+0x0370 Unknown URL: cd.ezweb.ne.jp
+0x03B0 EZweb Topmenu URL: http://menu2004.ezweb.ne.jp/cgi-bin/toppage.cgi
+0x0460 E-Mail, Server IP Address: 219.125.147.26
+0x0470 E-Mail, Mail Login ID: 07012345678901
+0x04B0 E-Mail, Server Config URL: http://imutl.ezweb.ne.jp/cgi2001/utl_menu.cgi
+0x0500 E-Mail, E-Mail Address: UnDual-SIM_FW-0.3@WN3DL.2026
+
+0x0580 Phone Number: 0x00 09012345678
+
+0x0708 Unknown (HEX): 00 02 6E BE
+0x070C Unknown (HEX): 1F 7D 26 A3 A9 DE 7B 6D F6 33 3E A6 EC 06 C2 4F
+0x071C Unknown (HEX): 4E 0C 59 A1
+0x0BF8 Checksum: 0xCC
